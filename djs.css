@@ -1,0 +1,7 @@
+.djs-console{
+    width: 100%;
+    height: 300px;
+    background-color: azure;
+    color: black;
+    font-family: 'Courier New', Courier, monospace;
+}
